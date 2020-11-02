@@ -1,0 +1,222 @@
+﻿[
+  {
+    "id": 5,
+    "name": "Olma",
+    "description": "Yangi uzilgan mazali olmalar",
+    "price": 6000,
+    "productCategory": {
+      "id": 5,
+      "name": "Mevalar",
+      "description": "Bu kategoriyada mevalar jamlangan"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Anor ",
+    "description": "Yangi uzilgan qizil anorlar",
+    "price": 6000,
+    "productCategory": {
+      "id": 6,
+      "name": "Mevalar",
+      "description": "Bu kategoriyada mevalar jamlangan"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Non",
+    "description": "Yangi pishgan issiq nonlar",
+    "price": 3000,
+    "productCategory": {
+      "id": 7,
+      "name": "Nonlar",
+      "description": "Bu kategoriyada nonlar jamlangan"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Qatiq ",
+    "description": "Muzday mazali qatiq",
+    "price": 4000,
+    "productCategory": {
+      "id": 8,
+      "name": "Sut mahsulotlari",
+      "description": "Bu kategoriyada sut mahsulotlari jamlangan"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Guruch",
+    "description": "Yangi sifatli guruchlar",
+    "price": 7000,
+    "productCategory": {
+      "id": 9,
+      "name": "Don mahsuloti",
+      "description": "Bu kategoriyada don mahsulotlari jamlangan"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Tuxum",
+    "description": "Yangi, sifatli mazali tuxumlar",
+    "price": 1200,
+    "productCategory": {
+      "id": 10,
+      "name": "Tovuq mahsuloti",
+      "description": "Bu kategoriyada tovuq mahsulotlari jamlangan"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Gòsht",
+    "description": "Yangi sòyilgan mol gòshti",
+    "price": 70000,
+    "productCategory": {
+      "id": 11,
+      "name": "Gòsht mahsuloti",
+      "description": "Bu kategoriyada gòsht mahsulotlari jamlangan"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Sabzi",
+    "description": "Yangi uzilgan suvli sabzilar",
+    "price": 1500,
+    "productCategory": {
+      "id": 12,
+      "name": "Sabzavotlar",
+      "description": "Bu kategoriyada sabzavotlar jamlangan"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Sariyoģ",
+    "description": "Yangi sutdan tayyorlangan sariyoģ",
+    "price": 30000,
+    "productCategory": {
+      "id": 13,
+      "name": "Sut mahsulotlari",
+      "description": "Bu kategoriyada sut mahsulotlari jamlangan"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Pishloq",
+    "description": "Yangi sutdan tayyorlangan mazali pishloq",
+    "price": 35000,
+    "productCategory": {
+      "id": 14,
+      "name": "Sut mahsulotlari",
+      "description": "Bu kategoriyada sut mahsulotlari jamlangan"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Yoģ",
+    "description": "Òsimlik yoģi",
+    "price": 12000,
+    "productCategory": {
+      "id": 15,
+      "name": "Yoģ mahsulotlari",
+      "description": "Bu kategoriyada yoģ mahsulotlari keltirilgan"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Yonģoq",
+    "description": "Mazali yonģoqlar",
+    "price": 45000,
+    "productCategory": {
+      "id": 16,
+      "name": "Don mahsulotlari",
+      "description": "Bu kategoriyada don mahsulotlari jamlangan"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Shokolad",
+    "description": "Shirin va mazali shokoladlar",
+    "price": 7000,
+    "productCategory": {
+      "id": 17,
+      "name": "Shirinliklar",
+      "description": "Bu kategoriyada shirinliklar jamlangan"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Qand",
+    "description": "Sof shakar kukunidan tayyorlangan",
+    "price": 12000,
+    "productCategory": {
+      "id": 18,
+      "name": "Shirinliklar",
+      "description": "Bu kategoriyada shirinliklar jamlangan"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Xurmo",
+    "description": "Yaxshi pishgan xurmo ",
+    "price": 15000,
+    "productCategory": {
+      "id": 19,
+      "name": "Mevalar",
+      "description": "Mevalar to'plami"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Uzum",
+    "description": "yangi uzulgan mazali uzumlar",
+    "price": 6800,
+    "productCategory": {
+      "id": 20,
+      "name": "Mevalar",
+      "description": "Mevalar to'plami"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Un",
+    "description": "Qoraqalpoq unlari",
+    "price": 64500,
+    "productCategory": {
+      "id": 21,
+      "name": "Un",
+      "description": "Un mahsulotlar"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Salfetka",
+    "description": "Qo'l salfetkalari",
+    "price": 12000,
+    "productCategory": {
+      "id": 22,
+      "name": "Tovarlar",
+      "description": "Tovarlar to'plami"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Coke",
+    "description": "Mazali va har doim yoqimli Kolalar",
+    "price": 8000,
+    "productCategory": {
+      "id": 23,
+      "name": "Suv",
+      "description": "Ichimlik suvlari"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Sayhun",
+    "description": "Filtirlangan yumushoq gazlanmagan suv",
+    "price": 5000,
+    "productCategory": {
+      "id": 24,
+      "name": "Suv",
+      "description": "Ichimlik suvlari"
+    }
+  }
+]
